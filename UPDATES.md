@@ -42,7 +42,7 @@
 
 ## Todo:
 * **[DONE]** Create StandupRecords array on scope object (capture date, user, yesterday, today, blockers as a single object for each day). 
-* **[DONE]**Develop interaction between Hotseat and StandupRcords (2way bind form fields so that Adding/Changing information saves it to the StandupRecords Array, and upon forms loss of focus, the data is saved)
+* **[DONE]** Develop interaction between Hotseat and StandupRcords (2way bind form fields so that Adding/Changing information saves it to the StandupRecords Array, and upon forms loss of focus, the data is saved)
 * Develop final UX for user link clicks
 * Create clever 404 messages from dead links.
 * Final pass for revision
